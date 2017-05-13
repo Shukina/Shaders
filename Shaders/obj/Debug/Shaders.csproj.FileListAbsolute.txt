@@ -1,0 +1,14 @@
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\Shaders.exe.config
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\Shaders.exe
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\Shaders.pdb
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\OpenTK.dll
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\OpenTK.GLControl.dll
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\OpenTK.pdb
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\OpenTK.xml
+D:\Visual Studio 2015\Shaders\Shaders\bin\Debug\OpenTK.GLControl.xml
+D:\Visual Studio 2015\Shaders\Shaders\obj\Debug\Shaders.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Shaders\Shaders\obj\Debug\Shaders.Form1.resources
+D:\Visual Studio 2015\Shaders\Shaders\obj\Debug\Shaders.Properties.Resources.resources
+D:\Visual Studio 2015\Shaders\Shaders\obj\Debug\Shaders.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Shaders\Shaders\obj\Debug\Shaders.exe
+D:\Visual Studio 2015\Shaders\Shaders\obj\Debug\Shaders.pdb
